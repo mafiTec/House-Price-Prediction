@@ -24,5 +24,5 @@ Python Dependencies:
 NumPy
 Pandas
 Sklearn
-Tensorflow
+
 Matplotlib
